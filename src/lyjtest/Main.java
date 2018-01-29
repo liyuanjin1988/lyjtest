@@ -2,6 +2,6 @@ package lyjtest;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("Hello json");
+		System.out.println("Hello jason");
 	}
 }
