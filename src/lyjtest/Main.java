@@ -7,5 +7,6 @@ public class Main {
 		System.out.println("jason");
 		System.out.println("lyj");
 		System.out.println("王二小");
+		System.out.println("赵龙");
 	}
 }
